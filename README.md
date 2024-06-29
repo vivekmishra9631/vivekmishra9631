@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [P5.js](https://github.com/processing/p5.js/)
 
-- 🌱 I’m currently learning **Svelte, Starknet and Rust**
+- 🌱 I’m currently learning **Svelte, NestJS, Starknet and Rust**
 
 - 👨‍💻 All of my projects are available at [https://vercel.com/vivek-mishras-projects](https://vercel.com/vivek-mishras-projects)
 
