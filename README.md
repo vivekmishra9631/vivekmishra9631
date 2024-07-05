@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **mishravivek9631@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/vivekmishra-resume](https://bit.ly/vivekmishra-resume)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vivekmi77834875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vivekmi77834875" height="30" width="40" /></a>
